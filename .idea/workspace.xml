@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="526c5357-1531-46f7-b5d3-1eb9d6525870" name="Default Changelist" comment="">
+    <list default="true" id="526c5357-1531-46f7-b5d3-1eb9d6525870" name="Default Changelist" comment="is unique">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1_Arrays_and_Strings/Is_Unique.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1_Arrays_and_Strings/Is_Unique.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +72,44 @@
       <option name="presentableId" value="Default" />
       <updated>1586768261985</updated>
     </task>
+    <task id="LOCAL-00001" summary="is unique">
+      <created>1586817096731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586817096731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -86,14 +118,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="is unique" />
+    <option name="LAST_COMMIT_MESSAGE" value="is unique" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="147" y="41" key="CommitChangelistDialog2" timestamp="1586817074008">
+    <state x="147" y="41" key="CommitChangelistDialog2" timestamp="1586817296363">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="147" y="41" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586817074008" />
-    <state x="385" y="199" key="run.anything.popup" timestamp="1586817041374">
+    <state x="147" y="41" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586817296363" />
+    <state x="503" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586817206597">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="385" y="199" key="run.anything.popup/0.23.1440.831@0.23.1440.831" timestamp="1586817041374" />
+    <state x="503" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.831@0.23.1440.831" timestamp="1586817206597" />
+    <state x="385" y="199" key="run.anything.popup" timestamp="1586817212051">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="385" y="199" key="run.anything.popup/0.23.1440.831@0.23.1440.831" timestamp="1586817212051" />
   </component>
 </project>
