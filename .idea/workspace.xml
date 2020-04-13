@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="526c5357-1531-46f7-b5d3-1eb9d6525870" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1_Arrays_and_Strings/Is_Unique.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1_Arrays_and_Strings/Is_Unique.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,31 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="Scala Compiler" />
   </component>
+  <component name="RunManager">
+    <configuration name="Is_Unique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cracking_Coding_Interview_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1_Arrays_and_Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1_Arrays_and_Strings/Is_Unique.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Is_Unique" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,5 +74,26 @@
       <updated>1586768261985</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="41" key="CommitChangelistDialog2" timestamp="1586817074008">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="147" y="41" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586817074008" />
+    <state x="385" y="199" key="run.anything.popup" timestamp="1586817041374">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="385" y="199" key="run.anything.popup/0.23.1440.831@0.23.1440.831" timestamp="1586817041374" />
   </component>
 </project>
