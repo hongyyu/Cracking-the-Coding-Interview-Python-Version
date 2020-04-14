@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="526c5357-1531-46f7-b5d3-1eb9d6525870" name="Default Changelist" comment="is unique">
+    <list default="true" id="526c5357-1531-46f7-b5d3-1eb9d6525870" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +26,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aTn4gVhKU6uaeIPc1d5RCuIcND" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,7 +38,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="Scala Compiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Is_Permutation">
+    <configuration name="Is_Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cracking_Coding_Interview_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1_Arrays_and_Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1_Arrays_and_Strings/Is_Permutation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Is_Unique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Cracking_Coding_Interview_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Is_Permutation" />
         <item itemvalue="Python.Is_Unique" />
       </list>
     </recent_temporary>
@@ -79,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586817096731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="is unique">
+      <created>1586817307759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586817307759</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,10 +151,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="is unique" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="147" y="41" key="CommitChangelistDialog2" timestamp="1586817296363">
+    <state x="147" y="41" key="CommitChangelistDialog2" timestamp="1586817307643">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="147" y="41" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586817296363" />
+    <state x="147" y="41" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586817307643" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586817323759">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586817323759" />
     <state x="503" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586817206597">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
