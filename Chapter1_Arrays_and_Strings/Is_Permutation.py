@@ -1,6 +1,7 @@
 from collections import defaultdict
 
 
+# Time: O(n)
 def permutation(s: str, t: str) -> bool:
     if len(s) != len(t):
         return False
